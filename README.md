@@ -44,8 +44,10 @@ How would you like to have a travel tool or guide that provides all relevant inf
 8. Lastly, the cities table (cities_df.csv) has the city as its primary key, and has the city and airport information. 
 9. This was all saved as a SQL database, and a diagram was made using quickdatabasediagrams.com, shown below. The web scraping data was saved into a MongoDB database, also shown below.
 
+![SQL database](https://user-images.githubusercontent.com/105513598/196310412-1f6d46ec-aa66-4344-91d6-734dbb9aca7c.png)
 
 
+![MongoDB](https://user-images.githubusercontent.com/105513598/196310435-bcc54a6f-8601-46fe-935c-ebbec7ea8137.png)
 
 
 
